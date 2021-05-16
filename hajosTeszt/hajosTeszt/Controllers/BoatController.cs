@@ -46,5 +46,6 @@ namespace hajosTeszt.Controllers
 
             return kérdésekSzáma;
         }
+
     }
 }
